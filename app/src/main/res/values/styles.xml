@@ -1,0 +1,80 @@
+<resources>
+
+    <style name="Base.PSTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+    </style>
+
+
+    <style name="Base.PSTheme.Pink" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/colorPrimaryPink</item>
+        <item name="colorPrimary">@color/colorPrimaryPink</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPink</item>
+        <item name="colorAccent">@color/colorAccentPink</item>
+        <item name="android:windowBackground">@color/windowBackgroundPink</item>
+    </style>
+
+
+    <style name="Base.PSTheme.Purple" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/colorPrimaryPurple</item>
+        <item name="colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPurple</item>
+        <item name="colorAccent">@color/colorAccentPurple</item>
+        <item name="android:windowBackground">@color/windowBackgroundPurple</item>
+    </style>
+
+
+    <style name="Base.PSTheme.DeepOrange" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/colorPrimaryDeepOrange</item>
+        <item name="colorPrimary">@color/colorPrimaryDeepOrange</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkDeepOrange</item>
+        <item name="colorAccent">@color/colorAccentDeepOrange</item>
+        <item name="android:windowBackground">@color/windowBackgroundDeepOrange</item>
+    </style>
+
+    <style name="Widget.CardContent" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="ToolBarStyle.Base"/>
+
+    <style name="ToolBarStyle.Base" parent="">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="ToolBarStyle.Event" parent="ToolBarStyle">
+        <item name="titleTextAppearance">@style/TextAppearance.Widget.Event.Toolbar.Title</item>
+    </style>
+
+    <style name="TextAppearance.Widget.Event.Toolbar.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <!--Any text styling can be done here-->
+        <item name="android:color">@color/colorAccent</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/title</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+
+    </style>
+
+    <style name="foodRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/rating_bar</item>
+        <item name="android:tint">@color/colorPrimary</item>
+        <item name="android:minHeight">56dip</item>
+        <item name="android:maxHeight">56dip</item>
+    </style>
+
+    <style name="CollapsedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

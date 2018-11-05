@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorPrimaryLight">#FF5722</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorBackground">#F2f2f2</color>
+
+    <color name="textColor">#FFFFFF</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#727272</color>
+
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="windowBackground">#FAFAFA</color>
+
+    <color name="lineColor">#e4e3e3</color>
+    <color name="iconColor">#727272</color>
+    <color name="whiteColor">#FFFFFF</color>
+
+    <color name="colorBlue">#1565C0</color>
+
+    <!-- Start Pink Based Theme Colors -->
+    <color name="colorPrimaryPink">#E91E63</color>
+    <color name="colorPrimaryDarkPink">#C2185B</color>
+    <color name="colorPrimaryLightPink">#F8BBD0</color>
+    <color name="colorAccentPink">#FFC107</color>
+    <color name="colorBackgroundPink">#F2f2f2</color>
+
+    <color name="textColorPink">#FFFFFF</color>
+    <color name="textColorPrimaryPink">#212121</color>
+    <color name="textColorSecondaryPink">#727272</color>
+
+    <color name="colorDividerPink">#B6B6B6</color>
+    <color name="windowBackgroundPink">#FAFAFA</color>
+
+    <color name="lineColorPink">#e4e3e3</color>
+    <color name="iconColorPink">#727272</color>
+    <color name="whiteColorPink">#FFFFFF</color>
+
+    <!-- End Pink Based Theme Colors -->
+
+    <!-- Start Purple Based Theme Colors -->
+    <color name="colorPrimaryPurple">#673AB7</color>
+    <color name="colorPrimaryDarkPurple">#512DA8</color>
+    <color name="colorPrimaryLightPurple">#D1C4E9</color>
+    <color name="colorAccentPurple">#4CAF50</color>
+    <color name="colorBackgroundPurple">#F2f2f2</color>
+
+    <color name="textColorPurple">#FFFFFF</color>
+    <color name="textColorPrimaryPurple">#212121</color>
+    <color name="textColorSecondaryPurple">#727272</color>
+
+    <color name="colorDividerPurple">#B6B6B6</color>
+    <color name="windowBackgroundPurple">#FAFAFA</color>
+
+    <color name="lineColorPurple">#e4e3e3</color>
+    <color name="iconColorPurple">#727272</color>
+    <color name="whiteColorPurple">#FFFFFF</color>
+    <!-- End Purple Based Theme Colors -->
+
+    <!-- Start Deep Orange Based Theme Colors -->
+    <color name="colorPrimaryDeepOrange">#FF5722</color>
+    <color name="colorPrimaryDarkDeepOrange">#E64A19</color>
+    <color name="colorPrimaryLightDeepOrange">#FFCCBC</color>
+    <color name="colorAccentDeepOrange">#536DFE</color>
+    <color name="colorBackgroundDeepOrange">#F2f2f2</color>
+
+    <color name="textColorDeepOrange">#FFFFFF</color>
+    <color name="textColorPrimaryDeepOrange">#212121</color>
+    <color name="textColorSecondaryDeepOrange">#727272</color>
+
+    <color name="colorDividerDeepOrange">#B6B6B6</color>
+    <color name="windowBackgroundDeepOrange">#FAFAFA</color>
+
+    <color name="lineColorDeepOrange">#e4e3e3</color>
+    <color name="iconColorDeepOrange">#727272</color>
+    <color name="whiteColorDeepOrange">#FFFFFF</color>
+    <!-- End Purple Based Theme Colors -->
+
+</resources>

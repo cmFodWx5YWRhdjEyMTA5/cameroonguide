@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "848626727946",
+    "firebase_url": "https://cameroonguide.firebaseio.com",
+    "project_id": "cameroonguide",
+    "storage_bucket": "cameroonguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848626727946:android:f5625ec4d9a0d27c",
+        "android_client_info": {
+          "package_name": "com.ngoucoorp.cameroonguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848626727946-q3h55s5avm1bok5cft4gsf6sooqqhkj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYzQ-jKJvJY70hB4zEE_2R7cQcvVvNzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1382279619622454~9319950154"
+    }
+  ],
+  "configuration_version": "1"
+}
